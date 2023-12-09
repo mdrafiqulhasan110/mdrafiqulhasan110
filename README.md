@@ -1,3 +1,3 @@
 ### Hi there 👋 I am Rafiqul Hasan
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrafiqulhasan110&theme=iceberg&border_radius=5)](https://git.io/streak-stats)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrafiqulhasan110&theme=iceberg&hide_border=true&border_radius=5" alt="GitHub Streak" /></p>
